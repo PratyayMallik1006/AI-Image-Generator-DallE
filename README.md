@@ -75,7 +75,7 @@ app.post("/variations", async (req, res) => {
   }
 });
 ```
-2. frintend
+2. frontend
 ```js
 const generateVariations = async () => {
     try {
@@ -90,5 +90,5 @@ const generateVariations = async () => {
       console.error(error);
     }
   };
-  ```
+
 ```
