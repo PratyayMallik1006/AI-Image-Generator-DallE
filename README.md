@@ -1,4 +1,18 @@
 # AI-Image-Generator-DallE
+![alt text](https://github.com/PratyayMallik1006/AI-Image-Generator-DallE/blob/main/screenshots/ss1.PNG?raw=true)
+![alt text](https://github.com/PratyayMallik1006/AI-Image-Generator-DallE/blob/main/screenshots/ss2.PNG?raw=true)
+![alt text](https://github.com/PratyayMallik1006/AI-Image-Generator-DallE/blob/main/screenshots/ss3.PNG?raw=true)
+![alt text](https://github.com/PratyayMallik1006/AI-Image-Generator-DallE/blob/main/screenshots/ss4.PNG?raw=true)
+![alt text](https://github.com/PratyayMallik1006/AI-Image-Generator-DallE/blob/main/screenshots/ss5.PNG?raw=true)
+# Running Application
+- Frontend:
+```
+npm run start:frontend
+```
+- Backend:
+```
+npm run start:backend
+```
 # Notes
 ## Using ChatGPT API
 - Genereating API Key : https://platform.openai.com/account/api-keys
